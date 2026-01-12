@@ -17,7 +17,7 @@ header {
 
 .text{
     padding: 1rem;
-    border: solid;
+    border: 2px solid;
     display: inline-block;
     margin: 7px 50px 15px 50px;
     
